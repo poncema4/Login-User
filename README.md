@@ -1,4 +1,4 @@
-# Login User
+# Login-User
 > Language: 86x Assembly
 
 Prompt a message to the user asking them to enter their username and password depending on the expected
